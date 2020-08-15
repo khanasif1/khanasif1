@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome to my world of cutting code and solving your day-to-day problem using software 
 
-## I'm a Father of 2 great kids, Husband, Developer, Technology Scout and a Educator
+### I'm a Father of 2 great kids, Husband, Developer, Technology Scout and a Educator
 <!--
 **khanasif1/khanasif1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
