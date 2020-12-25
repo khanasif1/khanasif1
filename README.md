@@ -5,10 +5,10 @@
 
 📫 How to reach me:
 <p>
-  <a href="https://www.linkedin.com/in/asif-khan-34458b6/" target="_blank"  rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/asif-khan-34458b6"  target="_blank"  rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://twitter.com/khanasif1" target="_blank"  rel="nofollow noreferrer">
+  <a href="https://twitter.com/khanasif1"  target="_blank"  rel="nofollow noreferrer">
     <img src="https://img.icons8.com/fluent/20/000000/twitter.png" alt="twitter">twitter</a> &nbsp;     
   </a>  
   <a href="https://www.youtube.com/channel/UC2nMuCbmLuLzlwrPF3kgZ9w" target="_blank"  rel="nofollow noreferrer">
