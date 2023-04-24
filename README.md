@@ -4,7 +4,13 @@
 <hr>
 
 ### About me:
-🔭 I have worked in service/consulting/product organizations like @Deloitte, @PWC, @Microsoft and currently I work as a Sr. Solution Architect @AWS
+🔭 I have worked in service/consulting/product organizations like
+
+- Currently - Sr. Solution Architect ![Amazon](https://a11ybadges.com/badge?logo=amazon) 
+- ![Microsoft](https://a11ybadges.com/badge?logo=microsoft) 
+- 
+- ![HCL](https://a11ybadges.com/badge?logo=hcl)
+
 ### If my work was of any help, and you would like to support me....
 <a href="https://www.buymeacoffee.com/khanasif1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=khanasif1&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a> </br>
 
