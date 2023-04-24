@@ -5,23 +5,22 @@
 
 ### About me:
 🔭 I have worked in service/consulting/product organizations like
+ 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;![Amazon](https://a11ybadges.com/badge?logo=amazon)
+<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;![Microsoft](https://a11ybadges.com/badge?logo=microsoft) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;![HCL](https://a11ybadges.com/badge?logo=hcl)
+<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;![Microsoft](https://github.com/khanasif1/khanasif1/blob/master/deloitte%20(2).png) 
 
-- Currently - Sr. Solution Architect ![Amazon](https://a11ybadges.com/badge?logo=amazon) 
-- ![Microsoft](https://a11ybadges.com/badge?logo=microsoft) 
-- 
-- ![HCL](https://a11ybadges.com/badge?logo=hcl)
 
-### If my work was of any help, and you would like to support me....
-<a href="https://www.buymeacoffee.com/khanasif1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=khanasif1&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a> </br>
 
 <hr>
 
 ## 💼 Skills
 
-
-
 📚 Frameworks, Platforms and Libraries
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -78,7 +77,8 @@
 
 <img src="https://github.com/khanasif1/khanasif1/blob/master/Profile.jpg" alt="banner that says Asif Khan - software engineer, content creator and community organizer alongside a cartoon illustration of Monica" style="max-width:100%;" />
 
-
+### If my work was of any help, and you would like to support me....
+<a href="https://www.buymeacoffee.com/khanasif1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=khanasif1&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a> </br>
 <!--
 **khanasif1/khanasif1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
