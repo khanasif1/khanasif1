@@ -64,17 +64,9 @@
 <hr>
 
 ### How to reach me:
-<p>
-  <a href="https://www.linkedin.com/in/asif-khan-34458b6"  target="_blank"  rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://twitter.com/khanasif1"  target="_blank"  rel="nofollow noreferrer">
-    <img src="https://img.icons8.com/fluent/20/000000/twitter.png" alt="twitter">twitter</a> &nbsp;     
-  </a>  
-  <a href="https://www.youtube.com/channel/UC2nMuCbmLuLzlwrPF3kgZ9w" target="_blank"  rel="nofollow noreferrer">
-    <img src="https://img.icons8.com/color/30/000000/youtube.png" alt="linkedin">Youtube</a> &nbsp;     
-  </a>  
-</p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/asif-khan-34458b6/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/khanasif1)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&logo=youtube&logoColor=red&color=1CA2F1)](https://www.youtube.com/channel/UC2nMuCbmLuLzlwrPF3kgZ9w)
 
 <hr>
 
