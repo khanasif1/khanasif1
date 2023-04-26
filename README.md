@@ -10,7 +10,7 @@
 <br>
 &ensp;&ensp;&ensp;&ensp;&ensp;![Microsoft](https://a11ybadges.com/badge?logo=microsoft) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;![HCL](https://a11ybadges.com/badge?logo=hcl)
 <br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;![Microsoft](https://github.com/khanasif1/khanasif1/blob/master/deloitte%20(2).png) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;![PWC](https://github.com/khanasif1/khanasif1/blob/master/PWC-Banner.png)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;![Microsoft](https://github.com/khanasif1/khanasif1/blob/master/deloitte%20(2).png) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;![PWC](https://github.com/khanasif1/khanasif1/blob/master/PWC.png)
 
 
 
